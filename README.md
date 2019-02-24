@@ -6,3 +6,7 @@ Proposed architecture :
 
 # Some of the results :
 ![alt text](https://github.com/ell-hol/Malaria-Detection-CNN/blob/master/Results.png)
+
+Classification report : 
+
+![alt text](https://github.com/ell-hol/Malaria-Detection-CNN/blob/master/Classification_Report.png)
